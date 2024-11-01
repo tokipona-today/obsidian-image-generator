@@ -122,7 +122,7 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 
 ## License
 
-[MIT](LICENSE) © [Votre Nom]
+[MIT](LICENSE) © [Nikos Prinio]
 
 ## Support
 
