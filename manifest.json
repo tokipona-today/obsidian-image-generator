@@ -1,0 +1,12 @@
+{
+    "id": "image-generator",
+    "name": "Image Generator",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Generate images using AI",
+    "author": "Test",
+    "authorUrl": "",
+    "isDesktopOnly": true,
+    "js": "main.js",
+    "css": "styles.css"
+}

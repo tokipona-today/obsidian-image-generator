@@ -1,0 +1,13 @@
+{
+    "name": "image-generator",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "esbuild main.ts --bundle --external:obsidian --format=cjs --platform=node --target=es2020 --outfile=main.js"
+    },
+    "devDependencies": {
+        "@types/node": "^16.11.6",
+        "esbuild": "0.13.12",
+        "obsidian": "^1.4.11",
+        "typescript": "4.4.4"
+    }
+}
