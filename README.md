@@ -1,6 +1,6 @@
 # Obsidian Image Generator Plugin
 
-Ce plugin permet de générer des images à partir de descriptions textuelles directement dans Obsidian, en utilisant l'API Replicate avec le modèle [Flux Schnell](https://replicate.com/flux-schnell).
+Ce plugin permet de générer des images à partir de descriptions textuelles directement dans Obsidian, en utilisant l'API Replicate avec les modèles FLUX.
 
 ## Fonctionnalités
 
@@ -62,7 +62,7 @@ Flux Schnell est un modèle optimisé pour :
 3. Ajoutez des détails sur l'ambiance (ex: "dramatic lighting", "bright colors")
 4. Mentionnez la perspective si importante (ex: "front view", "aerial view")
 
-### Exemples de prompts efficaces
+### Exemples de prompts
 
 ```
 Une forêt mystérieuse au coucher du soleil, style digital art, couleurs vibrantes, vue en perspective
