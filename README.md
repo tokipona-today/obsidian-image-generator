@@ -14,7 +14,7 @@ Ce plugin permet de générer des images à partir de descriptions textuelles di
 
 Flux Schnell est un modèle optimisé pour :
 - La génération rapide d'images
-- Une excellente qualité visuelle
+- Une qualité visuelle correcte
 - Une bonne interprétation des prompts en français
 - Des résultats cohérents et stables
 - Une large variété de styles artistiques
