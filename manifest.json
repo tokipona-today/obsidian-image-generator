@@ -1,10 +1,9 @@
 {
-    "id": "image-generator",
+    "id": "obsidian-img-generator",
     "name": "Image Generator",
     "version": "1.0.0",
     "minAppVersion": "0.15.0",
-    "description": "Generate images from text descriptions using Replicate API and Flux Schnell model",
-    "author": "Nikos Prinio",
-    "authorUrl": "https://github.com/your-name",
-    "isDesktopOnly": true
+    "description": "Generate images with Replicate API",
+    "author": "Your Name",
+    "isDesktopOnly": false
 }
